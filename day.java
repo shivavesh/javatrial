@@ -9,7 +9,9 @@ public class day {
 
         String c="Avesh Parmar ";
         System.out.println(c);
-//commetn pass 
+//comment pass ok is a method
+//Avesh Parmar
+// ohh you  
         // ?now how to enter input by uuser
         Scanner nme = new Scanner (System.in) ;
         String name=nme.nextLine();
