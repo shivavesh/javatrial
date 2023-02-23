@@ -7,9 +7,9 @@ public class day {
         int sum=a+b;
         System.out.println(sum);
 
-        String c="Avesh";
+        String c="Avesh Parmar ";
         System.out.println(c);
-
+//commetn pass 
         // ?now how to enter input by uuser
         Scanner nme = new Scanner (System.in) ;
         String name=nme.nextLine();
